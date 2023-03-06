@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
+Rsrc-Class-Path: ./ org.apache.commons.io.jar flatlaf-2.6.jar jcommon-1.
+ 0.23.jar flatlaf-intellij-themes-3.0.jar log4j-1.2.17.jar
+Rsrc-Main-Class: com.RepairMe.AppGUI.InitializerFrame
+Class-Path: .
+
